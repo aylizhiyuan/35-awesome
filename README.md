@@ -8,4 +8,4 @@ https://github.com/aylizhiyuan/nestjs-sample  适用于大多数情况下的nest
 
 ## 2. 性能
 
-https://github.com/aylizhiyuan/slow-optimization 满路径及NodeJS实战
+https://github.com/aylizhiyuan/slow-optimization 慢路径及NodeJS实战
