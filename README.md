@@ -1,7 +1,7 @@
-# 又一个五年开始了
+# 35 - 40 
 
 
-## 1. NestJS 项目
+## 1. NestJS
 
 https://github.com/aylizhiyuan/nestjs-sample  适用于大多数情况下的nestJS启动项目和基本配置
 
@@ -9,3 +9,8 @@ https://github.com/aylizhiyuan/nestjs-sample  适用于大多数情况下的nest
 ## 2. 性能
 
 https://github.com/aylizhiyuan/slow-optimization 慢路径及NodeJS实战
+
+
+## 3.内核
+
+https://github.com/aylizhiyuan/Kernel 内核初期接触
